@@ -1,0 +1,3 @@
+[submodule "Canda"]
+	path = Canda
+	url = git@github.com:00longxiaoyi/lzc_conda.git
