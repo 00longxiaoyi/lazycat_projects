@@ -1,3 +1,7 @@
 [submodule "Canda"]
 	path = Canda
 	url = git@github.com:00longxiaoyi/lzc-conda.git
+
+[submodule "lzc-query"]
+  Path = Query
+  url = git@github.com:00longxiaoyi/lzc-query.git
